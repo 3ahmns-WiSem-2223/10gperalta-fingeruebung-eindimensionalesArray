@@ -1,0 +1,1 @@
+# 10gperalta-fingeruebung-eindimensionalesArray
