@@ -113,7 +113,7 @@ public class Arrays : MonoBehaviour
         int randomNum = Random.Range(0, 1000);
         Debug.Log(System.Array.IndexOf(array12, randomNum));
 
-        LangenString()
+        LangenString();
     }
 
 
